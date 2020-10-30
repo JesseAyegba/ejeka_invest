@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -79,3 +80,13 @@ Getting The App to work:
     If you see a version show up, then the installation worked successfully.
 4) Use npm to install create react app by running ( npm install -g create-react-app ) in you command line.
 5) Now use create react app to start your react project by running ( create-react-app react-app ).
+=======
+# EjekaInvest
+-Ejeka is a conglomerate, Ejeka Invest the first sub company
+*Ejeka invest's aim is to help millenials and Gen Z achieve financial independence
+*This platform is a portal for managing funds and for monitoring how their investments are growing
+
+#Languages Used
+-Backend-Django(Python)
+_Frontend-React(Javascript)...not yet used
+>>>>>>> b50bc667155e7da8aaeb1d7e0847491b9fd8a5cb
